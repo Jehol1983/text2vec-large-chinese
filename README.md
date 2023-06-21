@@ -11,3 +11,5 @@ tags:
 ---
 
 Based on the derivative model of https://huggingface.co/shibing624/text2vec-base-chinese, replace MacBERT with LERT, and keep other training conditions unchanged。
+
+Talk to me: https://twitter.com/GanymedeNil
